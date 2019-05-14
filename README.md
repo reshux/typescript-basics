@@ -1,3 +1,5 @@
 # TypeScript Basics
 
-This repo containts .ts files where I learn TypeScript basics. I follow [this Youtube tutorial series](https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU) by Java Brains.
+This repo containts .ts files where I learn TypeScript basics. I tried commenting the code for those who might be interested in trying these out!
+
+The rest-api subdirectory contains an API request service. Don't forget to `npm install` before playing around with it. You can run this little request service by doing `npm start username`, where `username` can be any GitHub user you want.
